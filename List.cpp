@@ -12,7 +12,7 @@ List::List()
 
 List::~List()
 {
-    std::cout << "Inside destructor" << std::endl;
+    std::cout << "Inside destructor2" << std::endl;
 }
 
 void List::Intialize()
